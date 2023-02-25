@@ -3,7 +3,7 @@
 <h2 align="center">📃 Información General 📃</h2>
 
 <p>Este es el Challenge de Midudev de React para aprender y poner en práctica los hooks de React 🚀</p>
-<p>Este repositorio contiene un buscador de películas el cual tenía como requisitos para su construccion los siguientes enunciados...</p>
+<p>Este repositorio contiene un buscador de películas el cual tiene como requisitos para su construcción los siguientes enunciados...</p>
 
 <h2>Creación de una App para buscar películas utilizando la API de OMDBAPI 💻 </h2>
 <h2>Requerimientos:</h2>
@@ -30,7 +30,7 @@
   <li>useEffect -> Para los manejar los ciclos de vida del componente.</li>
   <li>useRef -> Para crear referencias y evitar que se haga la misma búsqueda dos veces.</li>
   <li>useMemo -> Para mejorar el rendimiento y evitar que se cree el mismo resultado en cada render.</li>
-  <li>useCallback -> Para mejorar el rendimiento y evitar que se cree la misma funcion al escribir cada letra.</li>
+  <li>useCallback -> Para mejorar el rendimiento y evitar que se cree la misma función al escribir cada letra.</li>
   <li>useMovies -> Un Custom Hook creado para este proyecto.</li>
   <li>useSearch -> Un Custom Hook creado para este proyecto.</li>
 </ul>
